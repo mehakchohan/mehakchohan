@@ -31,14 +31,20 @@ Expected: May 2027
 
 ## Experience
 
-**Machine Learning Research Intern** — University of Michigan (UROP)  
-*Sept 2024 – Apr 2025 | Ann Arbor, MI*  
+**Technology Analyst** — BlackRock  
+*Summer 2026 | Atlanta, GA*  
 
-**Technology Consultant** — Reach Consulting Group  
-*Sept 2024 – Apr 2025 | Ann Arbor, MI*  
+**Machine Learning Engineer Intern** — University of Michigan  
+*Apr 2026 - Aug 2026 | Ann Arbor, MI*  
 
 **Revenue Analytics Intern** — The Daily Beast  
 *Summer 2025 | New York, NY*  
+
+**Machine Learning Research Intern** — University of Michigan    
+*Sep 2024 – Apr 2025 | Ann Arbor, MI*  
+
+**Technology Consultant** — Reach Consulting Group  
+*Sep 2024 – Apr 2025 | Ann Arbor, MI*  
 
 ---
 
