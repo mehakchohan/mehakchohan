@@ -12,7 +12,6 @@ Computer Science student at the University of Michigan with a strong foundation 
 ## Education  
 **University of Michigan**  
 B.S. in Computer Science, Business Minor  
-Expected: May 2027  
 
 **Relevant Courses:**  
 - Data Structures & Algorithms  
